@@ -5,7 +5,7 @@ function twittertwotter() {
 }
 
 function updatePrivileges() {
-  window.location.replace("https://tw0tter.emilychen10.repl.co/");
+  window.location.replace("https://emsesc.github.io");
   document.getElementById("p1").innerText = "Success! You are now logged in to Tw0tter. Enjoy your stay.";
   document.getElementById("flag").innerText = "Flag: functions_function_w3ll";
   window.stop();
