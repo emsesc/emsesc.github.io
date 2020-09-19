@@ -9,5 +9,5 @@ function updatePrivileges() {
   document.getElementById("p1").innerText = "Success! You are now logged in to Tw0tter. Enjoy your stay.";
   document.getElementById("flag").innerText = "Flag: functions_function_w3ll";
   window.stop();
-  document.getElementsById("bird").src = "celebrate.gif";
+  document.getElementsById("bird").src = "source (2).gif";
 }
